@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg)]
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Rithvika Tiruveedhula</h1>
 <h3 align="center">Sophomore @ VIT,Chennai, Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/woman-programmer-working-on-a-new-project-6765192-5607777.png?f=webp">
