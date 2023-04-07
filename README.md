@@ -5,7 +5,7 @@
 <br/>
 
 
-  - 🌱 I’m currently learning Bachelors in Computer Science and Engineering
+  - 🌱 Currently pursing my Bachelors in Computer Science and Engineering
   - 👯 I’m looking to collaborate on Projects
   - 📫 How to reach me on LinkedIn : [Linkedin - @rithvika7495](https://in.linkedin.com/in/rithvikat?trk=public_profile_browsemap)
   - 😄 Pronouns: She/Her
