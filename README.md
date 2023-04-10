@@ -1,7 +1,7 @@
 <table width="100%"> 
 
 
-### <p align="middle"> <img src="https://user-images.githubusercontent.com/72274851/152816504-1f9f0a08-82c8-41dd-86c6-e1338e337888.gif" width="200px"></h2>Hey! I am Rithvika!<img src="https://user-images.githubusercontent.com/72274851/152804344-275f01b6-3d85-4a24-94a8-c449e516e52a.gif" width="40px"></h2></p>
+### <p align="middle"> <img src="https://cliply.co/wp-content/uploads/2021/08/472108440_HELLO_STICKER_400px.gif" width="200px"></h2>Hey! I am Rithvika!<img src="https://user-images.githubusercontent.com/72274851/152804344-275f01b6-3d85-4a24-94a8-c449e516e52a.gif" width="40px"></h2></p>
 <br/>
 
 
