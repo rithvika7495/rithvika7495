@@ -79,8 +79,6 @@
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=rithvika7495&show_icons=true&theme=blue-green&line_height=27" alt="Joel's github stats"/>
     </a>
   </p>
-<a href="https://github.com/rithvika7495">
-     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=rithvika7495&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Rithvika's github stats"/>
-    </a>
+
 
 
