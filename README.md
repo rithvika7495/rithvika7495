@@ -1,7 +1,8 @@
 <table width="100%"> 
 
-### <p align="middle"> <img src="https://cliply.co/wp-content/uploads/2021/08/472108440_HELLO_STICKER_400px.gif" width="200px"></h2>Hey! I am Rithvika!<img src="https://user-images.githubusercontent.com/72274851/152804344-275f01b6-3d85-4a24-94a8-c449e516e52a.gif" width="40px"></h2></p>
-<br/>
+### <p align="middle">
+<h2 align="center" style="font-size: 100px; color: #FFC0CB;">Hello, My Name is Rithvika!</h2>
+
 
 <hr style="border: 0.2px solid #cccccc">
 
