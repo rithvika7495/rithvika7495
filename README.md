@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final-year undergraduate student in **Computer Science and Engineering** with a specialization in **AI & ML**.
+- 🎓 Final-year undergraduate student in **Computer Science and Engineering** 
 - 🤖 Experienced in developing intelligent systems using deep learning, computer vision, and natural language processing.
 - 💼 Interned in both **AI/ML** and **Full Stack Development**, with hands-on exposure to real-world industrial projects.
 - 🧠 Passionate about **LLMs**, **Generative AI**, and **Fine-Grained Image Similarity** systems.
