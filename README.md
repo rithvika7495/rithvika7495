@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rithvika! 👋</h1>
 
 <p align="center">
-  🚀 Aspiring GenAI Engineer | 🎓 Final Year B.Tech - CSE (AI/ML) | 🤖 AI/ML | 🧠 Generative AI Explorer  
+  🚀 Aspiring GenAI Engineer | 🎓 B.Tech - CSE (AI/ML) | 🤖 AI/ML | 🧠 Generative AI Explorer  
 </p>
 
 ---
