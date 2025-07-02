@@ -1,75 +1,90 @@
-<table width="100%"> 
+<h1 align="center">Hi there, I'm Rithvika! 👋</h1>
 
-### <p align="middle">
-<h2 align="center" style="font-size: 100px; color: #FFC0CB;">Hello, My Name is Rithvika!</h2>
+<p align="center">
+  🚀 Aspiring GenAI Engineer | 🎓 Final Year B.Tech - CSE (AI/ML) | 🤖 AI/ML | 🧠 Generative AI | 🌐 Full Stack Explorer  
+</p>
 
+---
 
-<hr style="border: 0.2px solid #cccccc">
+## 👩‍💻 About Me
 
-- 🌱 Currently pursuing my Bachelors in Computer Science and Engineering
-- 👯  I've gained valuable experience through internships, particularly in the fields of Artificial Intelligence and Machine Learning. Additionally, I've dabbled in full-stack development, broadening my skill set and understanding of software engineering principles.
-- 🙌 Looking to collaborate and work together on more projects
-- 📫 How to reach me on LinkedIn : [Linkedin - @rithvika7495](https://in.linkedin.com/in/rithvikat?trk=public_profile_browsemap)
-- 😄 Pronouns: She/Her
+- 🎓 Final-year undergraduate student in **Computer Science and Engineering** with a specialization in **AI & ML**.
+- 🤖 Experienced in developing intelligent systems using deep learning, computer vision, and natural language processing.
+- 💼 Interned in both **AI/ML** and **Full Stack Development**, with hands-on exposure to real-world industrial projects.
+- 🧠 Passionate about **LLMs**, **Generative AI**, and **Fine-Grained Image Similarity** systems.
+- 🔍 Currently diving into **Prompt Engineering**, **RAG Pipelines**, and **Multimodal GenAI Models**.
+- 📄 [Resume](#) | 🌐 [Portfolio](#) *(add links if available)*
 
-<hr style="border: 0.5px solid #cccccc">
+---
 
-### Languages and Tools
-![C](https://img.shields.io/badge/C%20-%23E34F26.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+## 🧠 Tech Stack
 
-<hr style="border: 0.5px solid #cccccc">
+### 🚀 Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
+![Shell Script](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-### Frameworks, Platforms and Libraries
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-336791?style=for-the-badge&logo=natural-language-processing&logoColor=white)
+### 🧪 AI/ML & GenAI  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)  
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=OpenAI&logoColor=white)
 
-<hr style="border: 0.5px solid #cccccc">
+### 📊 Data & Analysis  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)  
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 
-### Version Control, Operating Systems, and Databases
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
+### 🧠 GenAI Tools & Frameworks  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)  
+![FAISS](https://img.shields.io/badge/-FAISS-0099CC?style=flat&logo=faiss&logoColor=white)  
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-3D5AFE?style=flat&logo=sqlite&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### 🛠️ Tools & IDEs  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=Cursor&logoColor=white)  
+![Replit](https://img.shields.io/badge/-Replit-667881?style=flat&logo=replit&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-<hr style="border: 0.5px solid #cccccc">
+### 🗃️ Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Frontend Tools
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+### 🎨 Design  
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)  
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)  
+![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-FF6900?style=flat&logo=DaVinci%20Resolve&logoColor=white)
 
-<hr style="border: 0.5px solid #cccccc">
+---
 
-### IDEs/Editors
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
+## 📈 GitHub Stats
 
-<hr style="border: 0.5px solid #cccccc">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rithvika7495&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithvika7495&layout=compact&theme=tokyonight" width="48%"/>
+</p>
 
-### Designer Tools
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23FF4D4D.svg?style=for-the-badge&logoColor=white)
-![Clipchamp](https://img.shields.io/badge/Clipchamp-FF6F61?style=for-the-badge&logo=clipchamp&logoColor=white)
+---
 
-<hr style="border: 0.5px solid #cccccc">
+## 🤝 Let's Connect
 
-<img src="https://github-readme-stats.vercel.app/api?username=rithvika7495&show_icons=true&hide_border=true&bg_color=00000000&title_color=008000&text_color=87CEEB" alt="Rithvika's GitHub Stats" style="background-color:transparent;" width="100%">
+- 💼 [LinkedIn](https://www.linkedin.com/in/rithvika7495/)
+- ✉️ Email: rithvika7495@gmail.com  
+- 🌐 Portfolio: On the Way:)
+
+---
+
+## 🎯 Goals
+
+- 🚀 Break into **Generative AI** professionally and contribute to real-world applications using LLMs and multimodal models.
+- 🤝 Collaborate with researchers, developers, and open-source enthusiasts in the **AI/ML** and **GenAI** communities.
+- 🧠 Continue publishing meaningful research and AI-enabled applications that solve real-world problems.
