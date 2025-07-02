@@ -1,10 +1,12 @@
+<p align="center">
+  <img src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif" width="100%" alt="Rithvika Banner"/>
+</p>
+
 <h1 align="center">Hi there, I'm Rithvika! 👋</h1>
 
 <p align="center">
   🚀 AI/ML Developer | 🎓 B.Tech - CSE (AI/ML) | 🤖 AI/ML  | 🧠 Aspiring GenAI Engineer  
 </p>
-
-(https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 ---
 
