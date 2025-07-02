@@ -13,7 +13,6 @@
 - 💼 Interned in both **AI/ML** and **Full Stack Development**, with hands-on exposure to real-world industrial projects.
 - 🧠 Passionate about **LLMs**, **Generative AI**, and **Fine-Grained Image Similarity** systems.
 - 🔍 Currently diving into **Prompt Engineering**, **RAG Pipelines**, and **Multimodal GenAI Models**.
-- 📄 [Resume](#) | 🌐 [Portfolio](#) *(add links if available)*
 
 ---
 
